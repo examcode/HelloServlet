@@ -3,18 +3,14 @@ HelloServlet
 Servlet, JSP Example
 
 ### Checkout
-=============
-git clone https://github.com/examcode/HelloServlet.git
+* git clone https://github.com/examcode/HelloServlet.git
 
 ### Build
-=============
-mvn clean package
+* mvn clean package
 
 ### Start/Stop
-=============
-..tomcat/bin/shutdown.sh
-..tomcat/bin/startup.sh
+	..tomcat/bin/shutdown.sh
+	..tomcat/bin/startup.sh
 
 ### Test
-=============
-http://...:8080/test.do?name=최제승
+	http://...:8080/test.do?name=최제승
