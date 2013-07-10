@@ -5,6 +5,6 @@
     <title></title>
   </head>
   <body>
-
+    /test.do?name=최제승
   </body>
 </html>
