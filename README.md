@@ -2,19 +2,19 @@ HelloServlet
 ============
 Servlet, JSP Example
 
-Checkout
+### Checkout
 =============
 git clone https://github.com/examcode/HelloServlet.git
 
-Build
+### Build
 =============
 mvn clean package
 
-Start/Stop
+### Start/Stop
 =============
 ..tomcat/bin/shutdown.sh
 ..tomcat/bin/startup.sh
 
-Test
+### Test
 =============
 http://...:8080/test.do?name=최제승
