@@ -11,7 +11,7 @@
     </servlet>
     <servlet-mapping>
         <servlet-name>test</servlet-name>
-        <url-pattern>/test.nhn</url-pattern>
+        <url-pattern>/test.do</url-pattern>
     </servlet-mapping>
 
 
