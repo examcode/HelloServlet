@@ -2,6 +2,10 @@ HelloServlet
 ============
 Servlet, JSP Example
 
+### Environment
+* centos 5.8
+* tomcat 7.0
+
 ### Checkout
 * git clone https://github.com/examcode/HelloServlet.git
 
@@ -14,3 +18,4 @@ Servlet, JSP Example
 
 ### Test
 	http://...:8080/test.do?name=최제승
+
