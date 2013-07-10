@@ -31,7 +31,7 @@ public class People {
     public String who(String name) throws Exception{
         String message = "";
         if(name.equals("최제승")) {
-            message = name + " 신";
+            message = name + " 신 (커피사줘서..)";
         } else if(this.isAngel(name)) {
             message = name + " 사람";
         } else {
